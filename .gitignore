@@ -1,10 +1,10 @@
 *.pyc
 train 
 test
-submissionDenseNet121
-submissionDenseNet169
-submissionDenseNet201
-submissionEfficientNetB0
-submissionEfficientNetB4
-submissionInceptionResNetV2
-submissionMobileNetV3Small
+submissionDenseNet121.csv
+submissionDenseNet169.csv
+submissionDenseNet201.csv
+submissionEfficientNetB0.csv
+submissionEfficientNetB4.csv
+submissionInceptionResNetV2.csv
+submissionMobileNetV3Small.csv
