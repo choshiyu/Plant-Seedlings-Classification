@@ -1,0 +1,10 @@
+*.pyc
+train 
+test
+submissionDenseNet121
+submissionDenseNet169
+submissionDenseNet201
+submissionEfficientNetB0
+submissionEfficientNetB4
+submissionInceptionResNetV2
+submissionMobileNetV3Small
